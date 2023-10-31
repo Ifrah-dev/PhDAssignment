@@ -1,15 +1,14 @@
 # PhDAssignment
 #Steps to clone  common-lang 
-clone this git link https://github.com/apache/commons-lang using intelli
-goto run Edit configuration 
-Modify its options 
+#clone this git link https://github.com/apache/commons-lang using intelli
+#goto run Edit configuration 
+#Modify its options 
 Select in code coverage 
 specify alternative coverage runner 
 select coverage runner as JoCOCO
 Run with project with coverage 
-
-Now .Exec file will be geneated in IntelliJ IDEA  by default ![image](https://github.com/Ifrah-dev/PhDAssignment/assets/142144099/e4909e2c-709c-40d6-833f-b637d8baba60)
-
+Now .Exec file will be geneated in IntelliJ IDEA  by default
+![image](https://github.com/Ifrah-dev/PhDAssignment/assets/142144099/e4909e2c-709c-40d6-833f-b637d8baba60)
 Copy commons_lang$All_in_commons_lang3.Exec file from default output directory of IntelliJ IDEA Coverage in windows it is available at C:\Users\ifrah.komal\AppData\Local\JetBrains\IdeaIC2022.3\coverage 
 Paste that copied file in common-lang clone directory in local pc.
 Run phDAssignment Project after cloning in local pc
