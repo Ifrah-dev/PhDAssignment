@@ -1,8 +1,8 @@
 # PhDAssignment
-#Steps to clone  common-lang 
-#clone this git link https://github.com/apache/commons-lang using intelli
-#goto run Edit configuration 
-#Modify its options 
+*Steps to clone  common-lang 
+*clone this git link https://github.com/apache/commons-lang using intelli
+*goto run Edit configuration 
+*Modify its options 
 Select in code coverage 
 specify alternative coverage runner 
 select coverage runner as JoCOCO
